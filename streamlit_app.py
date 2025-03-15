@@ -21,7 +21,7 @@ load_dotenv()
 st.set_page_config(page_title="HRAI", layout="wide")
 
 # Title and description
-st.title("AI HR")
+st.title("Offer Letter Generator")
 
 # Sidebar
 with st.sidebar:
